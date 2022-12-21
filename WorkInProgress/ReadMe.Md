@@ -29,7 +29,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Desafios de Projeto: Montando consultas relacionais no SQL Server](https://web.dio.me/lab/desafios-de-projeto/learning/768c758a-826e-44a8-b425-d311d1ec3de3)[Materiais de apoio](https://web.dio.me/lab/desafios-de-projeto/learning/b04597ce-a33f-45da-b326-8fc4473f0465)
+- [Desafios de Projeto: Montando consultas relacionais no SQL Server](https://web.dio.me/lab/desafios-de-projeto/learning/768c758a-826e-44a8-b425-d311d1ec3de3)
+- [Materiais de apoio](https://web.dio.me/lab/desafios-de-projeto/learning/b04597ce-a33f-45da-b326-8fc4473f0465)
 
 
 
